@@ -8,6 +8,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 <!--
 **keerthana-5170/keerthana-5170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
