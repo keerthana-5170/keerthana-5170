@@ -13,7 +13,7 @@
         </tr>
         <tr>
             <td align="center"> :hammer::construction::pencil: </td> 
-            <td align="center"> :hammer::construction::pencil: </td>
+            <td align="center"> :pencil: </td>
         </tr>
     </tbody>
 </table>
