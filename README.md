@@ -43,6 +43,7 @@
    #### Explanation
  
   <p align="center"><img src ="lights.png" height="300" width="300" /></p>
+  
   ```
   
    In the first test  case  there are 4 major spots located at (0,2) (0,4) (2,0) (2,4) and the radius of illumination is given as 2 units.
