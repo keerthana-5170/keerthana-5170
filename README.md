@@ -1,5 +1,5 @@
 
-  - [**December 27 - Community Park**](#december-27---community-park)
+  - [**December 27 - Community Park**](#december-27---community park)
   
   
   
