@@ -47,7 +47,9 @@
   ```
   
 In the first test  case  there are 4 major spots located at (0,2) (0,4) (2,0) (2,4) and the radius of illumination is given as 2 units.
-We can see that if we place 2 light sources at (1,3) and(1,1) , it would cover all the given major areas. Though there are other options, we aim at            minimizing the number of lights ,so  2 light sources are enough to illuminate the given major spots in the park.
+We can see that if we place 2 light sources at (1,3) and(1,1) , it would cover all the given major areas. 
+Though there are other options, we aim at  minimizing the number of lights ,so 2 light sources are enough 
+to illuminate the given major spots in the park.
 Then number of light sources along with their coordinates are displayed.
   
  ```
