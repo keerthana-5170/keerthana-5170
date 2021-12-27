@@ -42,7 +42,11 @@
   ```
    #### Explanation
  
-    <p align="center"><img src ="https://he-s3.s3.ap-southeast-1.amazonaws.com/media/uploads/ea11fd43-dc8b-4c2d-bbdf-b96614a9a2c9.png" /></p> 
+  <p align="center"><img src ="https://he-s3.s3.ap-southeast-1.amazonaws.com/media/uploads/ea11fd43-dc8b-4c2d-bbdf-b96614a9a2c9.png" /></p>
+  ```
    -In the first test  case  there are 4 major spots located at (0,2) (0,4) (2,0) (2,4) and the radius of illumination is given as 2 units.
    -We can see that if we place 2 light sources at (1,3) and(1,1) , it would cover all the given major areas. Though there are other options, we aim at               minimizing the number of lights ,so only 2 light sources are needed to illuminate the given major spots.
    -The number of light sources along with their coordinates are displayed.
+   ```
+  
+ 
