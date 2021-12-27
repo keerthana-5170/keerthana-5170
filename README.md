@@ -1,4 +1,5 @@
 
+  - [**December 27 - Community Park**](#december-27---community-park)
 ### December 27 - Commnuity Park
 
   #### Problem Statement 
@@ -8,7 +9,7 @@
   - In other words, your task is to select a minimum number of points in the plane, such that for each given point , there exists a chosen point at a distance of     at most r.
   - Note: More than one light source can be placed at a specific spot
   
-  <p align="center"><img src ="park.webp" height = "300"/></p>       
+  <p align="center"><img src ="/src/assets/park.webp" height = "300"/></p>       
  
  #### Sample Input/Output 
   ```
@@ -42,7 +43,7 @@
   ```
    #### Explanation
  
-  <p align="center"><img src ="lights.png" height="300" width="300" /></p>
+  <p align="center"><img src ="/src/assets/lights.png" height="300" width="300" /></p>
   
   ```
   
